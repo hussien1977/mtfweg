@@ -1,0 +1,8 @@
+{
+  "name": "ادارة ثانوية المتفوقين الاولى",
+  "description": "د. علي رحمن وحيد",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
